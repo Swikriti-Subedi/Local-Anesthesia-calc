@@ -1,3 +1,4 @@
+# LA MRD Calculator
 
 - Code for a website that can calculate the Maximum Recommended Dose(MRD) of Local Anesthesia (LA) used in Dentistry.Its based on the patient's weight and absolute maximum.
 
